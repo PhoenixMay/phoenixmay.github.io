@@ -1,3 +1,5 @@
 [submodule "themes/ascent"]
 path = themes/ascent
 url = git://github.com/cjquines/hexo-theme-ascent.git
+[submodule ".deploy_git"]
+path = .deploy_git
