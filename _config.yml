@@ -103,11 +103,11 @@ theme: dreamlike
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: https://github.com/PhoenixMay/phoenixmay.github.io
-  # example, https://github.com/hexojs/hexojs.github.io
-  branch: master
+# deploy:
+# type: git
+# repo: https://github.com/PhoenixMay/phoenixmay.github.io
+# example, https://github.com/hexojs/hexojs.github.io
+# branch: master
 
 netlify_cms:
   config_file: netlify.yaml
