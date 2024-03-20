@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master
+  branch: draft
 
 media_folder: source/images
 public_folder: /images
@@ -46,7 +46,7 @@ collections:
           required: false,
         }
       - {
-          label: "Updeted Date",
+          label: "Updated Date",
           name: "updated",
           widget: "datetime",
           format: "YYYY-MM-DD HH:mm:ss",
