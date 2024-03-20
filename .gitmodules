@@ -3,3 +3,4 @@ path = themes/ascent
 url = git://github.com/cjquines/hexo-theme-ascent.git
 [submodule ".deploy_git"]
 path = .deploy_git
+url = git://github.com/phoenixmay/phoenixmay.github.io.git
